@@ -209,6 +209,7 @@
                     <connections>
                         <outlet property="adviceLabel" destination="9IV-CT-mxw" id="Xlb-HO-sSO"/>
                         <outlet property="bmiLabel" destination="VU9-2W-Sd5" id="9i9-0e-g19"/>
+                        <outlet property="resultBackground" destination="r83-N3-Ash" id="SDx-AZ-slN"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="4fn-rV-g4l" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
